@@ -4,11 +4,11 @@ function Contact() {
   return (
     <section
       id="Contact"
-      className="font-poppins w-full h-screen bg-third rounded-t-[50px] pt-[100px] px-[100px] flex justify-center items-start "
+      className="font-poppins w-full bg-third rounded-t-[50px] pt-[50px] pb-[50px] px-[100px] flex justify-center items-start"
     >
       <div>
-        <div className=" w-[1000px] flex flex-wrap gap-10">
-          <div className=" pr-[50px]">
+        <div className="w-[1000px] flex flex-wrap gap-10">
+          <div className="pr-[50px]">
             <h1 className="font-bold text-[40px]">Get in touch with us</h1>
             <h2 className="font-normal text-[25px]">
               Feel Free to send us an email <br /> for more inquiries
